@@ -2,8 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b409e15e-8e21-4fc4-92f8-fd78c8c31f8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/level3/13. travel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level1/1.binary_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level1/2..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level1/3.incomplete_runner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level1/4.exam.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level1/5.kth_num.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level1/6.cloth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level1/7.day.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level2/1.square.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level2/10.camo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level2/11.finding_prime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level2/12.number_baseball.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level2/13.carpet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level2/14.target.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level2/2.124number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level2/3.top.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level2/4.printer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level2/5.truck.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level2/6.stock_price.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level2/7.largest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level2/8.h-index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level2/9.phonebook.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level3/1.paper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level3/10.island.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level3/11.integer_triangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level3/12.budget.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level3/13. travel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level3/2.chusuk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level3/3.fibonachi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level3/4.N_representation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level3/5.network.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level3/6.fibonachi_rec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level3/7.lock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level3/8.transform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level3/9.best_album.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,6 +219,7 @@
       <workItem from="1595593052585" duration="10356000" />
       <workItem from="1595813348012" duration="8168000" />
       <workItem from="1595859297540" duration="4986000" />
+      <workItem from="1596034745654" duration="12000" />
     </task>
     <servers />
   </component>
@@ -194,9 +227,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1595828287819">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1596034755307">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1596034755307" />
     <state x="740" y="275" key="FileChooserDialogImpl/1920.61.1024.1240/-1600.-169.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1595828287819" />
     <state width="1877" height="309" key="GridCell.Tab.0.bottom" timestamp="1595864389522">
       <screen x="0" y="0" width="1920" height="1040" />
