@@ -4,7 +4,7 @@ def solution(phone_book):
     for num in range(len(phone_book)):
         for com in range(num+1, len(phone_book)):
             lenght = len(phone_book[num])
-            # print(phone_book[com][:lenght],phone_book[num])
+            print(phone_book[com][:lenght],phone_book[num])
             if phone_book[com][:lenght] == phone_book[num]:
                 return False
 
